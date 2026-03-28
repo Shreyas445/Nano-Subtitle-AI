@@ -5,7 +5,7 @@ click on this link to get the app for your windows.
 
 ---->  https://nanosubtitles-ai.netlify.app/
 
-developer is not responsible for any loss or damage of the system or the loss of any maney.
+developer is not responsible for any loss or damage of the system or the loss of any money.
 the app was made from the using the open source models available on the internet.
 app uses ffmpeg for video to audio conversion, and faster-whisper medium to generate the subtitles, which run locally on gpu or the cpu. 
 app checks for the gpu, if not available, it fallsback to cpu for generating subtitles.
